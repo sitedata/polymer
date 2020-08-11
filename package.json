@@ -66,7 +66,7 @@
     "type-detect": "1.0.0"
   },
   "dependencies": {
-    "@webcomponents/shadycss": "^1.9.1"
+    "@webcomponents/shadycss": "^1.10.1"
   },
   "files": [
     "externs",
